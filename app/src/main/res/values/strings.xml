@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Memory</string>
+    <string name="start_record">রেকর্ড শুরু</string>
+    <string name="stop_record">রেকর্ড শেষ</string>
+    <string name="listen">শুনতে চাই</string>
+    <string name="delete_all">সব মুছে ফেলবো</string>
+    <string name="wait_for_play_finish">স্মৃতি স্মরণ পর্যন্ত অপেক্ষা করুন</string>
+    <string name="nothing_to_play">কিছুই বলার নাই</string>
+</resources>
